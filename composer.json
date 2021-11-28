@@ -1,0 +1,12 @@
+{
+    "name": "bram/engine",
+    "type": "project",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "brahmantyo",
+            "email": "brahmantyo.adi@gmail.com"
+        }
+    ],
+    "require": {}
+}
